@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c4f2b2-cbef-48b2-b427-b2a4f7303c06" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/lab4/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/lab4/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/lab4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/lab4/Shape.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lab4/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -55,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lab4/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -2089,9 +2089,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/lab4/Shape.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lab4/Pentagle.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lab4/Triangle.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/lab4/Shape.java" />
       </list>
     </option>
   </component>
@@ -2418,13 +2418,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lab4/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lab4/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state />
@@ -2441,6 +2434,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lab4/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
